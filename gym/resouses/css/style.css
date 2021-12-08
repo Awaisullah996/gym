@@ -1,0 +1,458 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.box1{
+    position: relative;
+    width: 100%;
+    height: 760px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) ,url(../img/maxresdefault.jpg);
+    background-size: cover;
+    
+    
+}
+.logo{
+    position:absolute ;
+    width: 50px;
+    height: 50px;
+    top:10px;
+    left: 10px;
+}
+.nav-bar{
+    position: absolute;
+    left: 550px;
+    color: white;
+}
+.nav-bar ul{
+    list-style: none;
+}
+.nav-bar ul li{
+    float: left;
+    margin-left: 30px;
+    margin-top: 40px;
+    cursor:pointer;    
+}
+.nav-bar li a{
+    text-decoration: none;
+    color: white;
+}
+.nav-bar li a:hover{
+    color: black;
+    background-color:white;
+}
+.nav-bar ul li:hover{
+    color: black;
+    background-color:white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition-duration: 1s;
+    
+}
+.gym-name{
+    position: absolute;
+    font-size: 100px;
+    color: burlywood;
+    top: 250px;
+    left: 21%;
+    text-transform: uppercase;
+}
+.gym-name1{
+    position: absolute;
+    font-size: 100px;
+    color: burlywood;
+    top: 250px;
+    left: 57%;
+    text-transform: uppercase;
+}
+.gym-class{
+    position: relative;
+    width: 100%;
+    height: 1550px;
+    background-color: black;
+}.fitness{
+    position: absolute;
+    width: 50%;
+    height: 375px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(../img/training-load-960x540.jpg);
+}
+.fit-text{
+    margin-top: 30px;
+    margin-left: 45%;
+    color: white;
+    font-size: 30px;
+}
+.fit1{
+    margin-top: 30px;
+    line-height: 1.1;
+    font-size: 18px;
+    margin-left: 45%;
+    color: white;
+    width: 50%;
+    
+}
+.biginner{
+    position: absolute;
+    width: 50%;
+    height: 375px;
+    cursor: pointer;
+    left: 50%;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(../img/physique_.jpg);
+
+}
+.work{
+    position: absolute;
+    width: 50%;
+    height: 375px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(../img/ggg.jpg);
+    top: 375px;
+
+}
+.ASK-HOW{
+    position: absolute;
+    width: 50%;
+    height: 375px;
+    left: 50%;
+    top: 375px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(../img/fitness-young-sexy-girl-gym-workout-doing-exercises-dumbbells-41675439.jpg);
+
+}.EAT-UP{
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(../img/diet-healthy-food-lifestyle-health-concept-sport-exercise-equipment-workout-and-gym-background-nutrition-detox-salad-f-179855057.jpg);
+    top: 750px;
+}.be{
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    left: 50%;
+    top: 750px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(../img/Realistic-Fitness-Goals-And.jpg);
+
+}.rest{
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    top: 1150px;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(../img/The-10-Best-Biceps-Training-Tips.jpg);
+
+}
+.fitte{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 500px;
+    font-size: 30px;
+    color: white;
+}
+.fit11{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 450px;
+    color: white;
+}.gym-area{
+    position: relative;
+    width: 100%;
+    height: 970px;
+}
+.gym2{
+    position: absolute;
+    width: 40%;
+    height: 400px;
+    cursor: pointer;
+}
+.gym1{
+    position: absolute;
+    width: 35%;
+    height: 500px;
+    left: 65%;
+    cursor: pointer;
+}
+.gym3{
+    position: absolute;
+    width: 25%;
+    height: 400px;
+    left: 40%;
+    cursor: pointer;
+}
+.gym4{
+    position: absolute;
+    width: 65%;
+    height: 570px;
+    top: 400px;
+    cursor: pointer;
+}
+.gym5{
+    position: absolute;
+    width: 35%;
+    top: 500px;
+    cursor: pointer;
+    height: 470px;
+    left: 65%;
+}
+.gymtxt{
+    position: absolute;
+    font-size: 50px;
+    color:white;
+    top: 50px;
+    left: 650px;
+}.box3{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) ,url(../img/x1600x1066_0010_PF13992_LowRes.jpg.pagespeed.ic.y-18BznvB6.webp);
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    background-repeat: no-repeat;
+}.com{
+    position: absolute;
+    top: 150px;
+    left: 45%;
+    font-size:50pxx;
+    font-weight: 900;
+    color: white;
+}
+.wrk{
+    position: absolute;
+    top:200px;
+    left: 38%;
+    color: white;
+}.box4{
+    position: relative;
+    width: 100%;
+    height: 1080px;
+    text-align: center;
+
+}.game1{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 30px;
+    left: 7%;
+
+}.game1pic{
+    position: absolute;
+    width: 100%;
+    height: 350px;
+    cursor: pointer;
+    left: 0px;
+}
+.gametext1{
+    position: absolute;
+    top: 370px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    left: 5%;
+    font-style: italic;
+    
+}
+.gametxt1{
+    position: absolute;
+    top: 420px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    left: 5%;
+}
+.game2{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 30px;
+    left: 36%;
+
+}
+.game3{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 30px;
+    left: 65%;
+}
+.game4{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 550px;
+    left: 7%;
+
+}
+.game5{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top:550px;
+    left: 36%;
+
+}
+.game6{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 550px;
+    left: 65%;
+}
+.Nutrition{
+    position: relative;
+    width: 100%;
+    height: 2100px;
+}
+.game7{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 1070px;
+    left: 7%;
+}
+.game8{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top:1070px;
+    left: 36%;
+
+}
+.game9{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 1070px;
+    left: 65%;
+}
+.game10{
+    position: absolute;
+    width: 28%;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 1590px;
+    left: 7%;
+}
+footer{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    background-image: url(../img/Bicep+Curl+Barbell.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.name{
+    position: absolute;
+    width: 30%;
+    height: 8%;
+    top: 10%;
+    left: 33%; 
+    opacity: 0.5;   
+}
+.email{
+    position: absolute;
+    width: 30%;
+    height: 8%;
+    top: 20%;
+    left: 33%; 
+    opacity: 0.5; 
+}.msg{
+    position: absolute;
+    width: 30%;
+    height: 32%;
+    top: 30%;
+    left: 33%;
+    text-align: start;
+    opacity: 0.5;    
+}.sub{
+    position: absolute;
+    top: 65%;
+    left: 33%;
+    background-color: yellow;
+    padding: 5px 10px;
+    border: none;
+    font-size: 15px;
+    opacity: 0.8; 
+}
+.fab{
+    position: absolute;
+    top: 77%;
+    left:39%;
+    background-color: none;
+    cursor: pointer;
+    color: silver;
+    font-size: 50px;
+    
+}
+.fab:hover{
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    transition-duration: 1s ;
+    color: rgb(53, 53, 53);
+}
+.fa-instagram{
+    position: absolute;
+    top: 77%;
+    left:43%;
+    background-color: none;
+    
+    color: silver;
+
+}
+.fa-twitter-square{
+    position: absolute;
+    top: 77%;
+    left:47%;
+    background-color: none;
+    
+    color: silver;   
+}
+.fa-google-plus-square{
+    position: absolute;
+    top: 77%;
+    left:51%;
+    background-color: none;
+    
+    color: silver;
+}.fa-linkedin-in{
+    position: absolute;
+    top: 77%;
+    left:55%;
+    background-color: none;
+    
+    color: silver;
+}.footer{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(41, 40, 40);
+}
+
+

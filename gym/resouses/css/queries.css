@@ -1,0 +1,252 @@
+@media (max-width:768px){
+    .nav-bar{
+        margin-left: -800px;
+    }
+    .gym-class{
+        position: relative;
+        width: 100%;
+        height: 2650px;
+    }
+    .fitness{
+        position: absolute;
+        width: 100%;   
+    }.biginner{
+        margin: 375px -50%;
+        width: 100%;
+    }
+    .work{
+        margin-top:375px;
+        width: 100%;
+    }
+    .ASK-HOW{
+        margin: 750px -50%;
+        width: 100%;
+    }
+    .EAT-UP{
+        margin-top: 750px;
+        width: 100%;
+    }
+    .be{
+        margin: 1100px -50%;
+        width: 100%;
+    }
+    .rest{
+        margin-top:1100px;
+    }.fitte{
+        position: absolute;
+        margin: 30px 50px;
+        font-size: 30px;
+        color: white;
+    }
+    .fit11{
+        position: absolute;
+        margin: 80px 50px;
+        color: white;
+    }.ab{
+        margin: 30px;
+    }
+    .abc{
+        margin: 70px 30px;
+    }
+    .gametext1{
+        margin-left: 2%;
+        font-size: 12px;
+    }
+    .gametxt1{
+        margin-left: 2%;
+        font-size:10px;
+    }
+    .fab{
+        position: absolute;
+        top: 77%;
+        left:33%;
+        background-color: none;
+        color: silver;
+    }.fa-instagram{
+        position: absolute;
+        top: 77%;
+        left:39%;
+        background-color: none;
+        color: silver;
+    
+    }
+    .fa-twitter-square{
+        position: absolute;
+        top: 77%;
+        left:45%;
+        background-color: none;
+        color: silver;   
+    }
+    .fa-google-plus-square{
+        position: absolute;
+        top: 77%;
+        left:51%;
+        background-color: none;
+        color: silver;
+    }.fa-linkedin-in{
+        position: absolute;
+        top: 77%;
+        left:58%;
+        
+    }
+
+
+}
+
+@media (max-width:480px){
+
+    .gym-area{
+        position: relative;
+        width: 100%;
+        height: 2430px;
+    }.gym1{
+        width: 480px;
+        height: 500px;
+        margin-left: -65%;
+        margin-top: 890px;
+    }
+    .gym2{
+        position: absolute;
+        width: 480px;
+        height: 400px;
+    }
+    .gym3{
+        width: 480px;
+        height: 500px;
+        margin-left: -40%;
+        margin-top: 390px;
+    }
+    .gym4{
+        position: absolute;
+        width: 480px;
+        height: 590px;
+        top: 1380px;
+    }
+    .gym5{
+        width: 480px;
+        margin-top: 1470px;
+        height: 470px;
+        margin-left: -65%;
+    }.box4{
+        position: relative;
+        width: 100%;
+        height: 3020px;
+    
+    }
+    .gametext1{
+        position: absolute;
+        top: 360px;
+        left: 5%;
+    }
+    .gametxt1{
+        position: absolute;
+        top: 410px;
+        left: 5%;
+    
+}.game1{
+    
+    width: 480px;
+    height: 500px;
+    background-color: whitesmoke;
+    margin-top: 30px;
+    margin-left: 0;
+
+}
+.game2{
+    
+    width: 480px;
+    height: 500px;
+    background-color: whitesmoke;
+    margin-top: 520px;
+    margin-left: -0%;
+
+}
+.game3{
+    position: absolute;
+    width: 480px;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 1020px;
+    left: 0%;
+}
+.game4{
+    position: absolute;
+    width: 480px;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 1520px;
+    left: 0%;
+
+}
+.game5{
+    position: absolute;
+    width: 480px;
+    height: 500px;
+    background-color: whitesmoke;
+    top:2020px;
+    left: 0%;
+
+}.game6{
+    position: absolute;
+    width: 480px;
+    height: 500px;
+    background-color: whitesmoke;
+    top: 2520px;
+    left: 0%;
+}
+.name{
+    position: absolute;
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: -120px;    
+}
+.email{
+    width: 400px;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: -120px; 
+}.msg{
+    width: 400px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: -120px;  
+}.sub{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: -120px;
+    background-color: yellow;
+    padding: 5px 10px;
+    border: none;
+    font-size: 15px;
+}
+.fab{
+    position: absolute;
+    margin-top: 10px;
+    margin-left:-80px;
+    
+}.fa-instagram{
+    position: absolute;
+    margin-top: 10px;
+    margin-left:-50px;
+    
+
+}
+.fa-twitter-square{
+    position: absolute;
+    margin-top: 10px;
+    margin-left:-20px;   
+}
+.fa-google-plus-square{
+    position: absolute;
+    margin-top: 10px;
+    margin-left:10px;
+    
+}.fa-linkedin-in{
+    position: absolute;
+    margin-top: 10px;
+    margin-left:40px;
+    
+}
+
+}
